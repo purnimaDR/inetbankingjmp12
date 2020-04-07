@@ -1,0 +1,9 @@
+testCasesjmp\TC_LoginDDT_002.class
+utilitiesjmp\ReadConfig.class
+pageObjectsjmp\AddCustomerPage.class
+utilitiesjmp\Reporting.class
+testCasesjmp\TC_AddCustomerTest_003.class
+testCasesjmp\TC_LoginTest_001.class
+pageObjectsjmp\LoginPage.class
+testCasesjmp\BaseClass.class
+utilitiesjmp\XLUtils.class

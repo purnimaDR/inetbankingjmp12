@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12665" started-at="2020-04-05T13:06:16Z" finished-at="2020-04-05T13:06:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12665" started-at="2020-04-05T13:06:16Z" finished-at="2020-04-05T13:06:29Z">
+      <class name="testCasesjmp.TC_LoginTest_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCasesjmp.TC_LoginTest_001@31ef45e3]" name="setup" is-config="true" duration-ms="4179" started-at="2020-04-05T13:06:16Z" finished-at="2020-04-05T13:06:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testCasesjmp.TC_LoginTest_001@31ef45e3]" name="loginTest" duration-ms="7637" started-at="2020-04-05T13:06:20Z" finished-at="2020-04-05T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCasesjmp.TC_LoginTest_001@31ef45e3]" name="teardown" is-config="true" duration-ms="816" started-at="2020-04-05T13:06:28Z" finished-at="2020-04-05T13:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCasesjmp.TC_LoginTest_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
